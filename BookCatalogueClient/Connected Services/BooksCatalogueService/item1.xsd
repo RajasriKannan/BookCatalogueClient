@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://RajasriVenkat/2021/02/04" elementFormDefault="qualified" targetNamespace="http://RajasriVenkat/2021/02/04" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Books">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="BookName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Author" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Price" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Books" nillable="true" type="tns:Books" />
+</xs:schema>

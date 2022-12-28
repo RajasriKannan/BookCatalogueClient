@@ -1,0 +1,168 @@
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\BookCatalogueClient.dll.config
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\BookCatalogueClient.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\BookCatalogueClient.pdb
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csc.exe
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csc.exe.config
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csc.rsp
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csi.exe
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csi.exe.config
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csi.rsp
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.AppContext.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Collections.Immutable.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Console.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.Compression.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.FileSystem.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.Pipes.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.AccessControl.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Claims.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.ValueTuple.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.XPath.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\vbc.exe
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\vbc.exe.config
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\vbc.rsp
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\VBCSCompiler.exe
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\VBCSCompiler.exe.config
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.csprojAssemblyReference.cache
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.csproj.CoreCompileInputs.cache
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.csproj.CopyComplete
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.dll
+C:\VenkatRaji\Raji\DOT NET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\BookCatalogueClient.dll.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\BookCatalogueClient.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\BookCatalogueClient.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csc.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csc.exe.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csc.rsp
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csi.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csi.exe.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csi.rsp
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.AppContext.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Collections.Immutable.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Console.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.Compression.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.FileSystem.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.Pipes.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.AccessControl.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Claims.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.ValueTuple.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.XPath.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\vbc.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\vbc.exe.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\vbc.rsp
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\VBCSCompiler.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\VBCSCompiler.exe.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.csprojAssemblyReference.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.csproj.CoreCompileInputs.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.csproj.CopyComplete
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCF Demo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\BookCatalogueClient.dll.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\BookCatalogueClient.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\BookCatalogueClient.pdb
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csc.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csc.exe.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csc.rsp
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csi.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csi.exe.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\csi.rsp
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.AppContext.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Collections.Immutable.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Console.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.Compression.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.FileSystem.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.IO.Pipes.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.AccessControl.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Claims.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.ValueTuple.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.XPath.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\vbc.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\vbc.exe.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\vbc.rsp
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\VBCSCompiler.exe
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\roslyn\VBCSCompiler.exe.config
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.csprojAssemblyReference.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.csproj.CoreCompileInputs.cache
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.csproj.CopyComplete
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.dll
+C:\VenkatRaji\Raji\DOTNET\Infosys\WCFDemo\BookCatalogueDemoClient\BookCatalogueClient\BookCatalogueClient\obj\Debug\BookCatalogueClient.pdb
